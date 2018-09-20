@@ -1,0 +1,10 @@
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\bin\Debug\netcoreapp2.0\CSE1322ReviewCS.deps.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\bin\Debug\netcoreapp2.0\CSE1322ReviewCS.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\bin\Debug\netcoreapp2.0\CSE1322ReviewCS.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\bin\Debug\netcoreapp2.0\CSE1322ReviewCS.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\bin\Debug\netcoreapp2.0\CSE1322ReviewCS.pdb
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\obj\Debug\netcoreapp2.0\CSE1322ReviewCS.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\obj\Debug\netcoreapp2.0\CSE1322ReviewCS.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\obj\Debug\netcoreapp2.0\CSE1322ReviewCS.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\obj\Debug\netcoreapp2.0\CSE1322ReviewCS.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\CSE1322ReviewCS\obj\Debug\netcoreapp2.0\CSE1322ReviewCS.pdb

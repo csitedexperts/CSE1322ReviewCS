@@ -1,0 +1,11 @@
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\bin\Debug\netcoreapp2.0\Example3.deps.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\bin\Debug\netcoreapp2.0\Example3.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\bin\Debug\netcoreapp2.0\Example3.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\bin\Debug\netcoreapp2.0\Example3.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\bin\Debug\netcoreapp2.0\Example3.pdb
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.csprojAssemblyReference.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example3\obj\Debug\netcoreapp2.0\Example3.pdb

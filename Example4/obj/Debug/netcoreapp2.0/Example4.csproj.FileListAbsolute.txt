@@ -1,0 +1,10 @@
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\bin\Debug\netcoreapp2.0\Example4.deps.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\bin\Debug\netcoreapp2.0\Example4.runtimeconfig.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\bin\Debug\netcoreapp2.0\Example4.runtimeconfig.dev.json
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\bin\Debug\netcoreapp2.0\Example4.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\bin\Debug\netcoreapp2.0\Example4.pdb
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\obj\Debug\netcoreapp2.0\Example4.csproj.CoreCompileInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\obj\Debug\netcoreapp2.0\Example4.AssemblyInfoInputs.cache
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\obj\Debug\netcoreapp2.0\Example4.AssemblyInfo.cs
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\obj\Debug\netcoreapp2.0\Example4.dll
+C:\Users\mhossa12\MH_VStudio\Projects\CSE1322ReviewCS\Example4\obj\Debug\netcoreapp2.0\Example4.pdb
